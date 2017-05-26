@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    av_capture (1.0.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  av_capture
+
+RUBY VERSION
+   ruby 2.4.0p0
+
+BUNDLED WITH
+   1.14.6
